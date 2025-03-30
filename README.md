@@ -1,1 +1,4 @@
-# building-app-UI
+# Android курс. Building app UI
+### Группа: 1371
+### Студентка: Писарева Ирина
+### Результаты Unit 2:
